@@ -18,7 +18,19 @@ Movie Database Manager is a **GUI-based application** built with **Python and Tk
 ---
 
 ## 📷 Screenshots
-*(Add your screenshots here)*
+## Screenshots 📸
+
+### Main UI
+![Main Screen](screenshots/main_ui.png)
+
+### Drop down UI
+![Main Screen](screenshots/main_ui2.png)
+
+### Movie Database
+![History](screenshots/data.png)
+
+### Delete UI
+![Main Screen](screenshots/delete.png)
 
 ---
 
